@@ -1,0 +1,5 @@
+php code starts with <? and ends with ?>
+
+<?
+//php code goes here
+?>
